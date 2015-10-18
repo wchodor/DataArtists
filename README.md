@@ -5,4 +5,5 @@ Plans, organisation management, prototypes, discussions, beer, ladies and cats :
 # Authors
 > 
 > Chodor Witold
+>
 > Kosiński Marcin
